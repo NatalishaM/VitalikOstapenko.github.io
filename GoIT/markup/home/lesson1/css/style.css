@@ -20,6 +20,8 @@ p.foto {
 }
 img.foto {
 	margin: 5px;
+	width: 150px;
+	height: 150px;
 }
 p {
 	margin: 15px;
