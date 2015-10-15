@@ -15,12 +15,12 @@ h2 {
 	margin: 0 auto;
 	text-align: center;
 }
-p.foto {
+div.head {
 	text-align: center;
-	margin: 10px 0 0 0;
+	margin: 0 auto;
 }
 img.foto {
-	margin: 5px;
+	margin: 15px 5px;
 	width: 150px;
 	height: 150px;
 }
